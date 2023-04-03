@@ -1,4 +1,4 @@
-# Automatic Text Evaluation on Data Catalog in Equinor
+# Automatic Text Evaluation on Data Catalog in Equinor🔍
 This project aims to develop an application that can quality ensure data catalog entries based on a set standard to ensure accurate, complete, and reliable documentation. The metadata of data products in Equinor's data platform are stored in a data catalog, and it is essential to ensure that the information captured is up to a certain standard to minimize risk and additional work for anyone using the data product.
 
 # Problem
