@@ -7,8 +7,8 @@ As more data products are developed, different people interpret and approach doc
 # Task Description
 The project will be developed in a design thinking process. The primary objective is to develop an application that can quality ensure data catalog entries based on a set standard. The following user stories have been identified for this project:
 
-# As a data product owner, I want to know if my documents meet a set standard described through a best practice document.
-# As a data steward, I want to receive feedback after adding a data catalog description, stating what is missing.
+- As a data product owner, I want to know if my documents meet a set standard described through a best practice document.
+- As a data steward, I want to receive feedback after adding a data catalog description, stating what is missing.
 # Technology
 This project will use various technologies to achieve its objective, including Natural Language Processing (NLP) and Machine Learning (ML) techniques. The project will be developed using Python programming language.
 
